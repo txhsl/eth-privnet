@@ -3,7 +3,8 @@
     "chainId": 456719,
     "homesteadBlock": 0,
     "eip155Block": 0,
-    "eip158Block": 0
+    "eip158Block": 0,
+    "ByzantiumBlock": 0
   },
   "coinbase"   : "0x0000000000000000000000000000000000000000",
   "difficulty" : "0x20000",
@@ -42,6 +43,12 @@
       "balance": "20000000000000000000"
     },
     "0xb41717679a04696a2aaac280d9d45ddd3760ff47": {
+      "balance": "20000000000000000000"
+    },
+    "0x38a5d4e63bbac1af0eba0d99ef927359ab8d7293": {
+      "balance": "20000000000000000000"
+    },
+    "0x86dec6586bfa1dfe303eafbefee843919b543fd3": {
       "balance": "20000000000000000000"
     }
   }
